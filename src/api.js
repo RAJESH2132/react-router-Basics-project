@@ -223,7 +223,7 @@ const categories = [
         speaker: {
           name: "Victor Gonzalez",
           title: "Wastewater Management Specialist",
-          org: "Leaf & Mortar",
+          org: "Leaf and Mortar",
           bio: "Victor Gonzalez has worked tirelessly in helping organizations design and model systems that bring normally 'hidden' infrastructures—such as the wastewater management systems he designs and implements—to life using virtual reality.",
         },
       },
